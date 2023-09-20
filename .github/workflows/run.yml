@@ -1,4 +1,4 @@
-name: GLaDOS-checkin
+name: GLaDOS
 
 on:
   push:
