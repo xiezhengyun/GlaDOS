@@ -20,4 +20,4 @@ jobs:
           COOKIE: ${{ secrets.COOKIE }}
           COOKIE2: ${{ secrets.COOKIE2 }}
         run: |
-          /checkin.sh
+          ./checkin.sh
