@@ -1,4 +1,4 @@
-name: GLaDOS
+name: GlaDOS
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   watch:
     types: [ started ]
   schedule:
-    - cron: 0 */6 * * *
+    - cron: 0 */12 * * *
 
 jobs:
   GLaDOS-checkin:
