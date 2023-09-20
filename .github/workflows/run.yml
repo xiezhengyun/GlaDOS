@@ -9,7 +9,7 @@ on:
     - cron: 0 */12 * * *
 
 jobs:
-  GLaDOS-checkin:
+  GlaDOS:
     runs-on: ubuntu-latest
 
     steps:
