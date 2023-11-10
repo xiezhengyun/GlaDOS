@@ -1,12 +1,3 @@
-# GLaDOS-checkin
-
-
-通过 github action 来实现自动签到，每天签到可以延时一天。
-
-但是当签到一定次数后，将会返回 `Checkin! Get 0 day(Your lucky chance is 33%), try next time.`，大概意思就是 1/3 的几率获得 1 天的奖励。
-
-[GLaDOS 官方 github](https://github.com/glados-network/GLaDOS)，[GLaDOS 官网](https://glados.rocks/)。
-
 
 
 ## 步骤
